@@ -1,0 +1,7 @@
+logs/
+bin/
+Test.java
+*.class
+*.lib
+*.jar
+*.log
